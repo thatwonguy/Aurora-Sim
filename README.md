@@ -20,7 +20,8 @@ If you are having issues logging into your simulator, take a look at http://foru
 
 ------------------------------------------
 ## lsl second life language script 
-channelID, channelUri);
+
+            channelID, channelUri);
             }
             voice_credentials["channel_uri"] = channelUri;
             voice_credentials["channel_credentials"] = "";
